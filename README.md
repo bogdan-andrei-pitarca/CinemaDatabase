@@ -5,3 +5,7 @@ Welcome to ***Cinema***, a comprehensive and user-friendly database, managed in 
 # Description 📖
 
 This database is designed to manage a wide range of cinema-related operations. With a focus on *data integrity*, *performance* and *usability*, **Cinema** boasts **optimized queries** and a **well-structured relational model** that seamlessly connects *movies*, *screenings*, *actors*, *directors*, *castings* and more.
+
+# Features 🪄
+
+The focus of each assignment is to introduce new and expanding SQL functionalities, thus progressively building a more powerful and versatile cinema database.
